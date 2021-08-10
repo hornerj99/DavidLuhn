@@ -1,3 +1,4 @@
-DAVID LUHN | SENIOR WRITER
+# David Luhn
+David Luhn is an award winning writer with extensive agency experience in both general and direct, much of it out of New York. He has ample interactive experience as well, inclusive of banners, HTML email, and website content.
 
-Award-winning writer with extensive agency as well as significant corporate experience. All creative disciplines: print, broadcast, direct marketing, digital (including banners, HTML email, and website content), outdoor, catalogue, trade show, and collateral.
+https://davidluhn.github.io/
